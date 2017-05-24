@@ -1,5 +1,4 @@
 # Jasmine-1st-Rep
-Explore GitHub
 
 **Jasmine test on markdown**
 
